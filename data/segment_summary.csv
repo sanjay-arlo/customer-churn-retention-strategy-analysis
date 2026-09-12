@@ -1,0 +1,4 @@
+segment,customers,churned_customers,churn_rate_pct,monthly_revenue_at_risk
+Enterprise,420,34,8.1,184000
+Mid-Market,610,88,14.4,236000
+SMB,970,192,19.8,142000
